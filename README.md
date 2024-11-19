@@ -1,3 +1,6 @@
+# Intro
+lấy ý tưởng từ game flappy bird và dino của google chorme khi không có mạng , tôi đã xây dựng lên 1 đoạn code với nhân vật là dino vượt qua các chướng ngại vật của game flappy bird
+
 # Tổng quan
 <p align="center">
   <b>Sơ đồ nối chân</b><br>
