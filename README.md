@@ -41,5 +41,3 @@ You can customize the game character by drawing your own bitmap. Detailed instru
 ### Contributions  
 If you have ideas or improvements for the project, feel free to create a Pull Request or Issue in this repository.  
 
-### License  
-This project is released under the [MIT](LICENSE) license.  
